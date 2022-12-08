@@ -7,4 +7,14 @@
 	<s:Group enabled="false">
 		
 	</s:Group>
+	<s:Label/>
+	
+	
+	
+	
+	<s:Group>
+		<s:Rect>
+			
+		</s:Rect>
+	</s:Group>
 </s:WindowedApplication>

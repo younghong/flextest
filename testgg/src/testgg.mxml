@@ -11,4 +11,7 @@
 	<s:Label text="sub1" />
 	<s:Label text="sub1" />
 	<s:Label text="sub1" />
+	
+	
+	<s:Label text="sub2"/>
 </s:WindowedApplication>

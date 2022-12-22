@@ -8,4 +8,7 @@
 	
 	<s:Label text="dev1"/>
 	<s:Label text="sub1" />
+	<s:Label text="sub1" />
+	<s:Label text="sub1" />
+	<s:Label text="sub1" />
 </s:WindowedApplication>

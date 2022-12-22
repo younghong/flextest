@@ -4,4 +4,8 @@
 					   xmlns:mx="library://ns.adobe.com/flex/mx">
 	<s:Button label="senario2" enabled="false"/>
 	<s:Label text="scenario1"/>
+	
+	
+	<s:Label text="dev1"/>
+	<s:Label text="sub1" />
 </s:WindowedApplication>

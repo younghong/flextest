@@ -1,2 +1,3 @@
-// ActionScript file
-var a:String="";
+var test:String="GG";
+
+trace("WHAT");

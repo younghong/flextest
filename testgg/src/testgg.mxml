@@ -3,4 +3,7 @@
 					   xmlns:s="library://ns.adobe.com/flex/spark"
 					   creationComplete="initApp(event)">
 	<fx:Script source="com/young/test/common.as"/>
+	<s:Label>
+		
+	</s:Label>
 </s:WindowedApplication>

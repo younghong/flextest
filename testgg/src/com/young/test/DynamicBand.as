@@ -4,6 +4,7 @@ package com.young.test
 	{
 		public function DynamicBand()
 		{
+			trace("111");
 		}
 	}
 }

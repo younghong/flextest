@@ -9,3 +9,4 @@ protected function initApp(event:FlexEvent):void
 	util.console();
 }
 
+private var useSocket:Boolean=false;

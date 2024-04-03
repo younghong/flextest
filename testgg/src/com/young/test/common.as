@@ -10,3 +10,8 @@ private var useSocket:Boolean=false;
 private var hello:String="";
 
 private var world:String="";
+
+
+
+
+trace("123");
